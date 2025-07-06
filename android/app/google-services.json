@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "304263618463",
+    "firebase_url": "https://device-streaming-f1dfcfdd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "device-streaming-f1dfcfdd",
+    "storage_bucket": "device-streaming-f1dfcfdd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304263618463:android:54a63d525dad769fd427aa",
+        "android_client_info": {
+          "package_name": "com.example.zoom_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLyhyNLBAWLNcPt8Zmj4tAt_rPZ_H9QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
